@@ -1,0 +1,5 @@
+{
+  "name": "DIDDY.AI",
+  "description": "A minimalist, high-end multimodal AI chat interface with live code preview and voice support.",
+  "requestFramePermissions": ["microphone"]
+}
